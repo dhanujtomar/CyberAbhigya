@@ -1,13 +1,14 @@
 {
   "expo": {
     "name": "CyberAbhigya",
+    "owner": "cyberabhigya",
     "slug": "CyberAbhigya",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/CyberAbhigya.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashCA.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,6 +22,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.Team10.CyberAbhigya",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
