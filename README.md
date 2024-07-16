@@ -31,7 +31,9 @@ Once Node is installed
 
 ## Run Project
 
-To build and run project enter the `npx expo start` command in your terminal
+1. To run porject you will need to install `Expo Go` in your smart phone
+2. To build and run project enter the `npx expo start` command in your terminal
+3. `Scan the QR Code` generated on your terminal with expo
 
 # Documentation and Report
 
