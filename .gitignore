@@ -1,5 +1,8 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# Package module
+package.txt
+
 # dependencies
 node_modules/
 
